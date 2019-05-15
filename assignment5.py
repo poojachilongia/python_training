@@ -53,17 +53,7 @@ c=int(input("Enter the value of c= "))
 obj=Triangle(a,b,c)
 print(obj.area())
 
-        
-
-
-    
-
-
-
-
-
-      
-#question 6
+ #question 6
 import random
 import string
 seen=''
@@ -75,10 +65,7 @@ for x in random:
         seen+=x
     i+=1
 print(seen)
-
-
-
-        
+       
 #question 7
 def new_list():
     a=[23,12,15,18,19,10]
